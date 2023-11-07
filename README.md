@@ -1,4 +1,4 @@
-# House Hunter Landing
+# Hydra
 Welcome to my GitHub repository for a Hydra project, which is a testament to my skills and passion for programming. This project is a canvas where I showcase my front-end expertise, emphasizing my dedication to creating visually appealing and user-friendly websites with efficient, scalable, and maintainable code.
 ### Source 
 [Figma](https://www.figma.com/community/file/1196146735025729739)
