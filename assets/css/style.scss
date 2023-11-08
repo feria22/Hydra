@@ -237,6 +237,8 @@ main,footer{
         &_box{
             margin: auto;
             width: 100%;
+            align-items: center;
+            justify-content: space-evenly;  
             & > img {
                 margin: auto 15px;
             }

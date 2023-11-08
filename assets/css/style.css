@@ -590,6 +590,8 @@ main, footer {
 .intro__footer_box {
   margin: auto;
   width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
 }
 .intro__footer_box > img {
   margin: auto 15px;
